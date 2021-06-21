@@ -1,6 +1,7 @@
 ﻿  Source.cpp
-c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(84): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(137): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(166): warning C4018: '<': signed/unsigned mismatch
-c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(88): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(171): warning C4018: '<': signed/unsigned mismatch
+c:\users\evan\source\repos\sideprojects\minecraftmapart\minecraftmapart\minecraftmapart\source.cpp(210): warning C4018: '<': signed/unsigned mismatch
   MinecraftMapArt.vcxproj -> C:\Users\Evan\source\repos\sideProjects\MinecraftMapArt\MinecraftMapArt\Debug\MinecraftMapArt.exe
